@@ -1,0 +1,8 @@
+name: image_coversion_app
+version: 0.0.0
+description: An image conversion utility application
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+dependencies: 
+  prompter_jeremylshepherd: ^0.0.2

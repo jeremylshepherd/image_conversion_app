@@ -1,0 +1,20 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "prompter_jeremylshepherd",
+      "rootUri": "file:///Users/jeremyshepherd/.pub-cache/hosted/pub.dartlang.org/prompter_jeremylshepherd-0.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "image_coversion_app",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    }
+  ],
+  "generated": "2022-03-16T04:26:26.173895Z",
+  "generator": "pub",
+  "generatorVersion": "2.16.1"
+}
